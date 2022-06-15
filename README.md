@@ -37,5 +37,3 @@
 ###
 <img href="https://github.com/gabeporto/gabeporto/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
