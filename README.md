@@ -30,10 +30,7 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabeporto.gabeporto&right_color=black"  />
+<div> 
+  ![Snake animation](https://github.com/gabeporto/gabeporto/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-###
-<img href="https://github.com/gabeporto/gabeporto/blob/output/snake.svg" alt="Snake animation" />
 
