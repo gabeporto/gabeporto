@@ -29,8 +29,4 @@
   </a>
 </div>
 
-###
-<div> 
-  ![Snake animation](https://github.com/gabeporto/gabeporto/blob/output/github-contribution-grid-snake.svg)
-</div>
 
